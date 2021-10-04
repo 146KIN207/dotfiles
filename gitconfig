@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jordan.gombert@gadz.org
+	name = Jordan Gombert
